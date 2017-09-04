@@ -1,0 +1,13 @@
+.caixa{
+    width:350px;
+    heigth: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 500px;
+    letter-spacing: 2px;
+    color: red;
+
+
+}
