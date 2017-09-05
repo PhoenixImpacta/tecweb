@@ -1,0 +1,35 @@
+<html>
+<head>
+<link href="new1.css" rel="stylesheet" type="text/css" media="all" 
+
+</head>
+
+
+<body>
+<div class="borda">
+    <h1>Sistemas de Órgãos Colegiados</h1>
+    <hr color="#4F81BD">
+    <p>
+    <font color="#4F81BD">Cursos de Graduação</font>
+    </p>
+
+    <p class="bold">
+    <font color="#00B050">Cursos de Pós-Graduação</font>
+    </p>
+    <p>
+    <font color="#FFC000">Mestrado</font>
+    </p>
+    <p class="underline">
+    <font color="#FF0000">Doutorado</font>
+    </p>
+    <font color="#7030A0">
+
+    <p class="meio">Esta é</p>
+    <p class ="mei">a primeira</p>
+    <p class="meio">aula de</p>
+    <p class="mei">CSS</p>
+    </font>
+</div>
+</div>
+</body>
+</html>
