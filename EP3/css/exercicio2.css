@@ -1,0 +1,25 @@
+bold{
+	font-weight: bold;
+}
+
+.underline{
+	text-decoration:underline;
+}
+
+h1{
+	text-align: center;
+}
+.borda{
+ border: 1px solid black;
+ text-indent: 10px;
+}
+
+
+.mei{
+	text-indent: 100px;
+}
+
+.meio{
+	text-indent: 50px;
+	
+}
