@@ -1,8 +1,17 @@
 #container{
-    width: 420px;
+    width: 540px;
     height: 300px;
 }
 
+#container .base{
+    text-align: left;
+    margin-top: 100px;
+}
+
+#container .topo{
+    position: relative;
+    margin-left: 18em;
+}
 .caixa p {
     text-align: center;
 }
