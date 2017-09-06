@@ -1,0 +1,69 @@
+.final{
+    font-family: "Arial Black";
+}
+.tabe{
+    font-family: "Arial Black";
+}
+
+td {
+border: solid 1px black;
+    border-collapse: collapse;
+    padding: 0px;
+    margin: 0px;
+
+}
+#tabela{
+
+    width: 500px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    border: 1px solid black;
+
+}
+
+.an{
+    background-color: gray;
+}
+
+.a{
+    background-color: gray;
+    color: darkgreen;
+}
+
+.b{
+    background-color: gray;
+    color: red;
+}
+
+.bru{
+    background-color: gray;
+
+}
+
+.d{
+    background-color: gray;
+    color: red;
+}
+
+.c{
+    background-color: gray;
+    color: red;
+}
+
+
+.joana{
+    color: darkgreen;
+}
+
+.joanaa{
+    color: red;
+}
+
+.maria{
+    color: red;
+}
+
+.mariaa{
+    color: darkgreen;
+}
